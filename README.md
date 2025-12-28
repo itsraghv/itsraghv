@@ -1,4 +1,4 @@
-##Hi, I’m Raghav.  
+Hi, I’m Raghav.  
 I’m a product engineer building meaningful things.
 
 ### 🛠 Stack
